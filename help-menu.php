@@ -2,7 +2,7 @@
 
 /*
 Plugin Name: Help Menu
-Version: 1.0
+Version: 1.1
 Plugin URI: http://www.reverbstudios.ie/wordpress-help-menu-plugin/
 Description: Adds a "Help" Menu and Page in admin with links to Wordpress resources.
 Author: Leon Quinn
@@ -96,6 +96,10 @@ function mt_submenu_page_videos() {
 			<h2>Video Tutorials</h2>
 			
 			<p>Some helpful Video screen recordings on how to do some of the most common things in Wordpress.</p>
+			
+			<h3>Wordpress Video Manual</h3>
+      
+      		<iframe width='853' height='480' src='http://www.youtube.com/embed/l5RHAxJDzV4?rel=0' frameborder='0' allowfullscreen></iframe>
       
       		<h3>Add or Edit a Page in Wordpress</h3>
       
