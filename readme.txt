@@ -38,7 +38,7 @@ No FAQs.
 
 == Upgrade Notice ==
 
-No upgrade info.
+Version 1.1 adds a new "Wordpress Video Manual" to the Video menu.
 
 == Changelog ==
 
