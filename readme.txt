@@ -1,10 +1,10 @@
 === Help Menu ===
 Contributors: reverbstudios
-Donate link: http://www.reverbstudios.ie/payments/
+Donate link: https://www.reverbstudios.ie/payments/
 Tags: wordpress help, wordpress how to, wordpress tutorials, wordpress manual
 Requires at least: 3.0
-Tested up to: 3.5.1
-Stable tag: 1.1
+Tested up to: 4.0
+Stable tag: 1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -13,7 +13,7 @@ Adds Help menus & pages to admin with screenshots, visual manuals and video tuto
 
 == Description ==
 
-Project home is [reverbstudios.ie](http://www.reverbstudios.ie/wordpress-help-menu-plugin/ "Help Menu").
+Project home is [reverbstudios.ie](https://www.reverbstudios.ie/wordpress-help-menu-plugin/ "Help Menu").
 
 This plugin ads a "Reverb Help" menu at the top of the menu stack in Wordpress admin. It has 3 submenus:
 
@@ -38,8 +38,9 @@ No FAQs.
 
 == Upgrade Notice ==
 
-Version 1.1 adds a new "Wordpress Video Manual" to the Video menu.
+Version 1.2 Removed NextGen Gallery help. 
 
 == Changelog ==
 
-No Changelog
+Version 1.2 Removed NextGen Gallery & Create a Link help. 
+Version 1.1 adds a new "Wordpress Video Manual" to the Video menu.

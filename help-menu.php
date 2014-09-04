@@ -2,8 +2,8 @@
 
 /*
 Plugin Name: Help Menu
-Version: 1.1
-Plugin URI: http://www.reverbstudios.ie/wordpress-help-menu-plugin/
+Version: 1.2
+Plugin URI: https://www.reverbstudios.ie/wordpress-help-menu-plugin/
 Description: Adds a "Help" Menu and Page in admin with links to Wordpress resources.
 Author: Leon Quinn
 Author URI: http://www.reverbstudios.ie
@@ -30,10 +30,10 @@ function mt_toplevel_page() {
 
 	  			Wordpress is widely considered to be one of the easiest and most flexible such systems to use but if you find that you can't get the hang of it on first play then please have a 				look at the Resources left for further help.</p> 
 				
-				<a href='http://www.reverbstudios.ie' target='_blank' title='Reverb Studios Design' /><img src='../wp-content/plugins/help-menu/reverb-studios-logo.png' /></a>   			
+				<a href='https://www.reverbstudios.ie' target='_blank' title='Reverb Studios Design' /><img src='../wp-content/plugins/help-menu/reverb-studios-logo.png' /></a>   			
       
       			<p>Leon Quinn<br>
-      			<a href='http://www.reverbstudios.ie' target='_blank'>ReverbStudios.ie</a></p>			
+      			<a href='https://www.reverbstudios.ie' target='_blank'>ReverbStudios.ie</a></p>			
 		</div>";		  
 }
 
@@ -59,20 +59,6 @@ function mt_submenu_page_screenshots() {
 			<img src='../wp-content/plugins/help-menu/wp3.png ' />
 			
 			<img src='../wp-content/plugins/help-menu/wp4.png ' />
-			
-			<h3>Add a Link</h3> 
-			
-			<img src='../wp-content/plugins/help-menu/wp5.png ' />
-			
-			<img src='../wp-content/plugins/help-menu/wp6.png ' />
-			
-			<h3>Add a Photo Gallery (Using NextGen)</h3> 
-			
-			<img src='../wp-content/plugins/help-menu/wp7.png ' />
-			
-			<img src='../wp-content/plugins/help-menu/wp8.png ' />
-			
-			<img src='../wp-content/plugins/help-menu/wp9.png ' />
 			
 			<h3>Add Widgets</h3> 
 			
@@ -130,7 +116,11 @@ function mt_submenu_page_links() {
 
 			<h3>Wordpress Visual Manual (PDF)</h3>
 
-      		<p><a href='../wp-content/plugins/help-menu/wordpress_manual.pdf' target='_blank'>View/Download the Manual</a></p>	    
+      		<p><a href='../wp-content/plugins/help-menu/wordpress_manual.pdf' target='_blank'>View/Download the Manual</a></p>	
+			
+			<h3>Wordpress Video Manual (PDF)</h3>
+
+      		<p><a href='https://www.youtube.com/watch?v=l5RHAxJDzV4' target='_blank'>Watch the Tutorial on youTube</a></p>    
 
 	 		<h3>Official Wordpress Video Tutorial Site</h3>
 
@@ -150,7 +140,7 @@ function mt_submenu_page_links() {
 			
 			<h3>Reverb Studios Design</h3>
 
-      		<p><a href='http://www.reverbstudios.ie/category/wordpress-tips' target='_blank'>ReverbStudios.ie/Category/Wordpress-Tips/</a></p>	
+      		<p><a href='https://www.reverbstudios.ie/category/wordpress-tips' target='_blank'>ReverbStudios.ie/Category/Wordpress-Tips/</a></p>	
       
 		</div>";	 	  
 }
